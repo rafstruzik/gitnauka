@@ -1,0 +1,30 @@
+*
+{
+    background-color: rgb(183, 169, 169);
+    text-align: center;
+}
+
+#tekst
+{
+    border: 5px solid darkviolet;
+    padding: 20px;
+    margin: 20px 0 0 0;
+}
+
+#tekst2
+{
+    border: 5px solid rgb(213, 61, 10);
+    padding: 20px;
+    margin: 20px 0 20px 0;
+}
+
+#dania
+{
+    border: 5px solid green;
+    padding: 20px;
+}
+
+#dane
+{
+    border: 5px solid blue;
+}
